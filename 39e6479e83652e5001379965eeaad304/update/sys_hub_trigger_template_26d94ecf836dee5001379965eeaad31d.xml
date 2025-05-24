@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_trigger_template">
+    <sys_hub_trigger_template action="INSERT_OR_UPDATE">
+        <accessible_from>public</accessible_from>
+        <active>true</active>
+        <annotation/>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <category display_value="Record">8886dd64c3d322002841b63b12d3aed4</category>
+        <comment/>
+        <description/>
+        <name>Request Item Stage Change Trigger</name>
+        <order>0</order>
+        <published_trigger_id>3d6a4acf3a6dee50699dfed6889d1a53</published_trigger_id>
+        <source_trigger/>
+        <state>published</state>
+        <sys_class_name>sys_hub_trigger_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 04:08:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26d94ecf836dee5001379965eeaad31d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Request Item Stage Change Trigger</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_update_name>sys_hub_trigger_template_26d94ecf836dee5001379965eeaad31d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 04:10:38</sys_updated_on>
+        <template_properties>{"showAdvancedProperties":"true","showDefinitionConditions":"true","canAddAdditionalConditions":"true"}</template_properties>
+        <trigger_category/>
+        <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
+        <trigger_values>[{"name":"table","label":"Table","type":"table_name","displayValue":"Requested Item","value":"sc_req_item","readOnly":false,"extendable":false},{"name":"condition","label":"Condition","type":"conditions","displayValue":"stage=delivery","value":"stage=delivery","readOnly":false,"extendable":false},{"name":"run_when_setting","label":"run_when_setting","type":"choice","displayValue":"Run for Both Interactive and Non-Interactive Sessions","value":"both","readOnly":false,"extendable":false},{"name":"run_when_user_setting","label":"run_when_user_setting","type":"choice","displayValue":"Run for any user","value":"any","readOnly":false,"extendable":false},{"name":"run_when_user_list","label":"run_when_user_list","type":"glide_list","displayValue":"","value":"","readOnly":false,"extendable":false},{"name":"run_on_extended","label":"run_on_extended","type":"choice","displayValue":"Run only on current table","value":"false","readOnly":false,"extendable":false},{"name":"run_flow_in","label":"run_flow_in","type":"choice","displayValue":"Run flow in background (default)","value":"background","readOnly":false,"extendable":false},{"name":"trigger_strategy","label":"trigger_strategy","type":"choice","displayValue":"Once","value":"once","readOnly":false,"extendable":false}]</trigger_values>
+        <type>record_update</type>
+    </sys_hub_trigger_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=26d94ecf836dee5001379965eeaad31d"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <source_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-05-23 23:55:12</sys_created_on>
+        <sys_id>15bce08cc37d62508fcc190ed4013174</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci_computer</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_update_name>sys_scope_privilege_15bce08cc37d62508fcc190ed4013174</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-05-23 23:55:12</sys_updated_on>
+        <target_name>cmdb_ci_computer</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

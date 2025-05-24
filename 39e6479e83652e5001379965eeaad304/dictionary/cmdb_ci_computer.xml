@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="191394e39860221055904c91e2b654eb" extends="cmdb_ci_hardware" label="Computer" max_length="40" name="cmdb_ci_computer" type="collection">
+        <element default="False" label="Reserved" max_length="30" name="x_1743798_office_0_reserved" type="boolean"/>
+    </element>
+</database>

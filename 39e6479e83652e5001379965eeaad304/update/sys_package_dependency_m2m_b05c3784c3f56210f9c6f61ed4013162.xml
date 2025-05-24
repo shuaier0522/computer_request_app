@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">dfd254639860221055904c91e2b654bc</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 15:02:17</sys_created_on>
+        <sys_id>b05c3784c3f56210f9c6f61ed4013162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 15:02:17</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="computer_models" table="x_1743798_office_0_computer_models" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>computer_models</element>
+            <name>x_1743798_office_0_computer_models</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 10:12:53</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>computer_models</sys_name>
+            <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+            <sys_update_name>sys_choice_x_1743798_office_0_computer_models_computer_models</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 10:12:53</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_models</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lenovo ThinkStation S20</label>
+            <language>en</language>
+            <name>x_1743798_office_0_computer_models</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 10:12:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 10:12:53</sys_updated_on>
+            <value>lenovo_thinkstation_s20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_models</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple MacBook Air 13"</label>
+            <language>en</language>
+            <name>x_1743798_office_0_computer_models</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 10:12:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 10:12:53</sys_updated_on>
+            <value>apple_macbook_air_13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_models</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sony VAIO VPCSA3AGX</label>
+            <language>en</language>
+            <name>x_1743798_office_0_computer_models</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 10:12:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 10:12:53</sys_updated_on>
+            <value>sony_vaio_vpcsa3agx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>computer_models</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple iMac 27"</label>
+            <language>en</language>
+            <name>x_1743798_office_0_computer_models</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 10:13:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 10:13:14</sys_updated_on>
+            <value>apple_imac_27</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
