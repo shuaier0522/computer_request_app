@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_extendable>false</is_extendable>
+        <label>Computer Models</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1743798_office_0_computer_models</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:19:20</sys_created_on>
+        <sys_id>0953c78783a1229001379965eeaad307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office 0 Computer Models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_update_name>sys_db_object_0953c78783a1229001379965eeaad307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:19:20</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer Application App">39e6479e83652e5001379965eeaad304</application>
+        <file_path/>
+        <instance_id>5a6944a5eb34ee18c040fddacad0cdc3</instance_id>
+        <instance_name>dev322046</instance_name>
+        <name>sys_db_object_0953c78783a1229001379965eeaad307</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_extendable>false</is_extendable><label>Computer Models</label><live_feed_enabled>false</live_feed_enabled><name>x_1743798_office_0_computer_models</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:19:20</sys_created_on><sys_id>0953c78783a1229001379965eeaad307</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office 0 Computer Models</sys_name><sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package><sys_policy/><sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope><sys_update_name>sys_db_object_0953c78783a1229001379965eeaad307</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:19:20</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1212820550</payload_hash>
+        <record_name>Computer Models</record_name>
+        <reverted_from/>
+        <source>9cd9f780c3f56210f9c6f61ed40131d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 14:51:21</sys_created_on>
+        <sys_id>24d93b80c3f56210f9c6f61ed4013180</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19702c6f0810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 14:51:21</sys_updated_on>
+        <type>Table</type>
+        <update_guid>2169acf32d29225073064a7fefaf628b</update_guid>
+        <update_guid_history>2169acf32d29225073064a7fefaf628b:1212820550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 02:56:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>c79ad5529caf4e40aa3501e76a5be881</sys_id>
+        <sys_metadata>0953c78783a1229001379965eeaad307</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office 0 Computer Models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_scope_delete display_value="">1afbd8e50abe49319b578aba35358489</sys_scope_delete>
+        <sys_update_name>sys_db_object_0953c78783a1229001379965eeaad307</sys_update_name>
+        <sys_update_version display_value="sys_db_object_0953c78783a1229001379965eeaad307">24d93b80c3f56210f9c6f61ed4013180</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 02:56:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

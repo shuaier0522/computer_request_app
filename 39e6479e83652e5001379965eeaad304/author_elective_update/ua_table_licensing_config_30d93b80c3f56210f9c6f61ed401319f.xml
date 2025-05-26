@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1743798_office_0_computer_models</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 14:51:22</sys_created_on>
+        <sys_id>30d93b80c3f56210f9c6f61ed401319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1743798_office_0_computer_models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_update_name>ua_table_licensing_config_30d93b80c3f56210f9c6f61ed401319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 14:51:22</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer Application App">39e6479e83652e5001379965eeaad304</application>
+        <file_path/>
+        <instance_id>5a6944a5eb34ee18c040fddacad0cdc3</instance_id>
+        <instance_name>dev322046</instance_name>
+        <name>ua_table_licensing_config_30d93b80c3f56210f9c6f61ed401319f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_1743798_office_0_computer_models</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-24 14:51:22</sys_created_on><sys_id>30d93b80c3f56210f9c6f61ed401319f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1743798_office_0_computer_models</sys_name><sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package><sys_policy/><sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope><sys_update_name>ua_table_licensing_config_30d93b80c3f56210f9c6f61ed401319f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-24 14:51:22</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>2093149535</payload_hash>
+        <record_name>x_1743798_office_0_computer_models</record_name>
+        <reverted_from/>
+        <source>e7b9b733c3212210f9c6f61ed40131fa</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-05-23 20:12:32</sys_created_on>
+        <sys_id>56d9bb80c3f56210f9c6f61ed4013130</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>196fec69f800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>16d9bb80c4f562107d109109a2811b30</update_guid>
+        <update_guid_history>16d9bb80c4f562107d109109a2811b30:2093149535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 02:56:54</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>0d2d64987b964538b31b7d9636337010</sys_id>
+        <sys_metadata>30d93b80c3f56210f9c6f61ed401319f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1743798_office_0_computer_models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_scope_delete display_value="">1afbd8e50abe49319b578aba35358489</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_30d93b80c3f56210f9c6f61ed401319f</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_30d93b80c3f56210f9c6f61ed401319f">56d9bb80c3f56210f9c6f61ed4013130</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 02:56:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

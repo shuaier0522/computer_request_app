@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="computer_models" table="x_1743798_office_0_computer_models">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Computer models</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>computer_models</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>155</max_length>
+        <name>x_1743798_office_0_computer_models</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 10:10:23</sys_created_on>
+        <sys_id>e7bcdb4b83e1229001379965eeaad330</sys_id>
+        <sys_name>Computer models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_update_name>sys_dictionary_x_1743798_office_0_computer_models_computer_models</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 10:12:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer Application App">39e6479e83652e5001379965eeaad304</application>
+        <file_path/>
+        <instance_id>5a6944a5eb34ee18c040fddacad0cdc3</instance_id>
+        <instance_name>dev322046</instance_name>
+        <name>sys_dictionary_x_1743798_office_0_computer_models_computer_models</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="computer_models" table="x_1743798_office_0_computer_models"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>Computer models</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>computer_models</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>155</max_length><name>x_1743798_office_0_computer_models</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 10:10:23</sys_created_on><sys_id>e7bcdb4b83e1229001379965eeaad330</sys_id><sys_name>Computer models</sys_name><sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package><sys_policy/><sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope><sys_update_name>sys_dictionary_x_1743798_office_0_computer_models_computer_models</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 10:12:52</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1190300091</payload_hash>
+        <record_name>Computer Models.Computer models</record_name>
+        <reverted_from/>
+        <source>9cd9f780c3f56210f9c6f61ed40131d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-24 14:51:21</sys_created_on>
+        <sys_id>a4d93b80c3f56210f9c6f61ed4013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19702c6f1640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-24 14:51:21</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>7569acf33a292250103773ac35691790</update_guid>
+        <update_guid_history>7569acf33a292250103773ac35691790:1829711806</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 02:56:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>a1398f3cb70b4436ace71fe4cf265784</sys_id>
+        <sys_metadata>e7bcdb4b83e1229001379965eeaad330</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer models</sys_name>
+        <sys_package display_value="Computer Application App" source="x_1743798_office_0">39e6479e83652e5001379965eeaad304</sys_package>
+        <sys_parent display_value="">0953c78783a1229001379965eeaad307</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Computer Application App">39e6479e83652e5001379965eeaad304</sys_scope>
+        <sys_scope_delete display_value="">1afbd8e50abe49319b578aba35358489</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1743798_office_0_computer_models_computer_models</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1743798_office_0_computer_models_computer_models">a4d93b80c3f56210f9c6f61ed4013187</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 02:56:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
